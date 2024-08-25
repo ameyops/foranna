@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amey.surve\\source\\repos\\Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chess\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chess\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Dao\\Chess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chess\\Dao\\Chess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Model\\PlayerPerformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chess\\Model\\PlayerPerformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Controllers\\MatchesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chess\\Controllers\\MatchesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Controllers\\PlayersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chess\\Controllers\\PlayersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\appsettings.json",
+              "RelativeDocumentMoniker": "Chess\\appsettings.json",
+              "ToolTip": "C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\appsettings.json",
+              "RelativeToolTip": "Chess\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T15:01:46.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerPerformance.cs",
+              "DocumentMoniker": "C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Model\\PlayerPerformance.cs",
+              "RelativeDocumentMoniker": "Chess\\Model\\PlayerPerformance.cs",
+              "ToolTip": "C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Model\\PlayerPerformance.cs",
+              "RelativeToolTip": "Chess\\Model\\PlayerPerformance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:10:58.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatchesController.cs",
+              "DocumentMoniker": "C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Controllers\\MatchesController.cs",
+              "RelativeDocumentMoniker": "Chess\\Controllers\\MatchesController.cs",
+              "ToolTip": "C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Controllers\\MatchesController.cs",
+              "RelativeToolTip": "Chess\\Controllers\\MatchesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T09:04:20.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "Chess\\Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "Chess\\Controllers\\PlayersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T09:03:30.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chess.cs",
+              "DocumentMoniker": "C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Dao\\Chess.cs",
+              "RelativeDocumentMoniker": "Chess\\Dao\\Chess.cs",
+              "ToolTip": "C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Dao\\Chess.cs",
+              "RelativeToolTip": "Chess\\Dao\\Chess.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAQwLIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:05:36.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Chess\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Chess\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T07:03:08.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Program.cs",
+              "RelativeDocumentMoniker": "Chess\\Program.cs",
+              "ToolTip": "C:\\Users\\amey.surve\\source\\repos\\Chess\\Chess\\Program.cs",
+              "RelativeToolTip": "Chess\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:03:06.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
